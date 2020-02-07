@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\siralama\siralama\bin\Debug\siralama.exe.config
+C:\Users\Hp\Desktop\siralama\siralama\bin\Debug\siralama.exe
+C:\Users\Hp\Desktop\siralama\siralama\bin\Debug\siralama.pdb
+C:\Users\Hp\Desktop\siralama\siralama\obj\Debug\siralama.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\siralama\siralama\obj\Debug\siralama.Form1.resources
+C:\Users\Hp\Desktop\siralama\siralama\obj\Debug\siralama.Properties.Resources.resources
+C:\Users\Hp\Desktop\siralama\siralama\obj\Debug\siralama.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\siralama\siralama\obj\Debug\siralama.exe
+C:\Users\Hp\Desktop\siralama\siralama\obj\Debug\siralama.pdb
+C:\Users\Hp\Desktop\YAZILIM DERSLERİ\C SHARP\EXCEL AKTAR\siralama\bin\Debug\siralama.exe.config
+C:\Users\Hp\Desktop\YAZILIM DERSLERİ\C SHARP\EXCEL AKTAR\siralama\obj\Debug\siralama.exe
+C:\Users\Hp\Desktop\YAZILIM DERSLERİ\C SHARP\EXCEL AKTAR\siralama\obj\Debug\siralama.pdb
